@@ -1494,7 +1494,8 @@
     "cals": 28,
     "protein": 12,
     "carbs": 5,
-    "fat": 0
+    "fat": 0,
+    "visible": true
   },
   {
     "group": "Povrće",
