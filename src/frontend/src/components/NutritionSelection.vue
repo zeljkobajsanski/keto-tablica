@@ -30,19 +30,27 @@
                 <tbody>
                 <tr>
                     <td class="p-0 bold"> Kalorije</td>
-                    <td class="text-right p-0">{{calculated.cals}} kcal</td>
+                    <td :class="{'text-danger': calculated.cals > target.cals}" class="text-right p-0">
+                        {{calculated.cals}} kcal
+                    </td>
                 </tr>
                 <tr>
                     <td class="p-0 bold">Proteini</td>
-                    <td class="text-right p-0">{{calculated.protein}} g ({{calculated.proteinPerc}} %)</td>
+                    <td :class="{'text-danger': calculated.protein > target.protein}" class="text-right p-0">
+                        {{calculated.protein}} g ({{calculated.proteinPerc}} %)
+                    </td>
                 </tr>
                 <tr>
                     <td class="p-0 bold">Ugljeni hidrati</td>
-                    <td class="text-right p-0">{{calculated.carbs}} g ({{calculated.carbsPerc}} %)</td>
+                    <td :class="{'text-danger': calculated.carbs > target.carbs}" class="text-right p-0">
+                        {{calculated.carbs}} g ({{calculated.carbsPerc}} %)
+                    </td>
                 </tr>
                 <tr>
                     <td class="p-0 bold">Masti</td>
-                    <td class="text-right p-0">{{calculated.fat}} g ({{calculated.fatPerc}} %)</td>
+                    <td :class="{'text-danger': calculated.fat > target.fat}" class="text-right p-0">{{calculated.fat}}
+                        g ({{calculated.fatPerc}} %)
+                    </td>
                 </tr>
                 </tbody>
             </table>
@@ -63,7 +71,7 @@
     @Component({components: {Chart}})
     export default class NutritionSelection extends Vue {
         items: Array<any> = [];
-        calculated: any = {cals: 0, protein: 0, carbs: 0, fat: 0}
+        calculated: any = {cals: 0, protein: 0, carbs: 0, fat: 0};
         target: any = {cals: 0, protein: 0, carbs: 0, fat: 0};
         // series: Array<any> = [];
         chartOptions = {
