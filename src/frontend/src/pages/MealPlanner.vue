@@ -5,8 +5,8 @@
                 <div class="col-12"></div>
             </div>
             <div class="row">
-                <div class="col-8"></div>
-                <div class="col-4">
+                <div class="col-7"></div>
+                <div class="col-5">
                     <NutritionAccordion/>
                 </div>
             </div>
@@ -15,7 +15,7 @@
 </template>
 
 <script lang="ts">
-    import {Vue, Component, Prop, Watch, Emit} from 'vue-property-decorator'
+    import {Component, Vue} from 'vue-property-decorator'
     import NutritionAccordion from "@/components/NutritionAccordion.vue";
 
     @Component({

@@ -8,6 +8,158 @@
     "fat": 80
   },
   {
+    "group": "Masti",
+    "name": "Ghee",
+    "cals": 940,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 100
+  },
+  {
+    "group": "Masti",
+    "name": "Majonez domaći",
+    "cals": 710,
+    "protein": 1,
+    "carbs": 1.5,
+    "fat": 78.5
+  },
+  {
+    "group": "Masti",
+    "name": "Majonez kupovni",
+    "cals": 710,
+    "protein": 1,
+    "carbs": 2.2,
+    "fat": 76.6
+  },
+  {
+    "group": "Masti",
+    "name": "Maslac (neslani)",
+    "cals": 751,
+    "protein": 1,
+    "carbs": 0.1,
+    "fat": 83
+  },
+  {
+    "group": "Masti",
+    "name": "Maslac (slani)",
+    "cals": 751,
+    "protein": 1,
+    "carbs": 0.1,
+    "fat": 83
+  },
+  {
+    "group": "Masti",
+    "name": "Mast ćureća",
+    "cals": 885,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 98.5
+  },
+  {
+    "group": "Masti",
+    "name": "Mast kokošija",
+    "cals": 885,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 98.5
+  },
+  {
+    "group": "Masti",
+    "name": "Mast svinjska",
+    "cals": 902,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 100
+  },
+  {
+    "group": "Masti",
+    "name": "Tartar sos domaći",
+    "cals": 480,
+    "protein": 1,
+    "carbs": 1.5,
+    "fat": 51.88
+  },
+  {
+    "group": "Masti",
+    "name": "Ulje kokosovo",
+    "cals": 900,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 99.90
+  },
+  {
+    "group": "Masti",
+    "name": "Ulje koštica grožđa",
+    "cals": 884,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 100
+  },
+  {
+    "group": "Masti",
+    "name": "Ulje laneno",
+    "cals": 884,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 100
+  },
+  {
+    "group": "Masti",
+    "name": "Ulje maslinovo",
+    "cals": 900,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 99.9
+  },
+  {
+    "group": "Masti",
+    "name": "Ulje maslinovo",
+    "cals": 900,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 99.9
+  },
+  {
+    "group": "Masti",
+    "name": "Ulje pšenicnih klica",
+    "cals": 900,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 99.9
+  },
+  {
+    "group": "Masti",
+    "name": "Ulje repičino",
+    "cals": 900,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 99.9
+  },
+  {
+    "group": "Masti",
+    "name": "Ulje semenki bundeve",
+    "cals": 880,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 100
+  },
+  {
+    "group": "Masti",
+    "name": "Ulje suncokretovo",
+    "cals": 900,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 99.9
+  },
+  {
+    "group": "Masti",
+    "name": "Ulje susamovo",
+    "cals": 900,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 99.9
+  },
+  {
     "group": "Jaja",
     "name": "Belance kokošje",
     "cals": 44,
