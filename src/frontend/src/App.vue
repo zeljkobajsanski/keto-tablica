@@ -28,9 +28,9 @@
 </template>
 
 <script lang="ts">
-import { Component, Vue } from 'vue-property-decorator';
+  import {Component, Vue} from 'vue-property-decorator';
 
-@Component({
+  @Component({
   components: {
   },
 })
@@ -43,11 +43,10 @@ export default class App extends Vue {}
   }
 
   .starter-template {
-    padding: 3rem 1.5rem;
+    /*padding: 3rem 1.5rem;*/
   }
 
-  .container {
-    margin-right: 0 !important;
-    padding-right: 0 !important;
+  .m-b-0 {
+    margin-bottom: 0 !important;
   }
 </style>

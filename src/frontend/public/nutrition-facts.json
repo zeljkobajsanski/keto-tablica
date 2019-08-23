@@ -5,7 +5,8 @@
     "cals": 700,
     "protein": 5,
     "carbs": 0,
-    "fat": 80
+    "fat": 80,
+    "visible": true
   },
   {
     "group": "Masti",
@@ -13,7 +14,8 @@
     "cals": 940,
     "protein": 0,
     "carbs": 0,
-    "fat": 100
+    "fat": 100,
+    "visible": true
   },
   {
     "group": "Masti",
@@ -21,7 +23,8 @@
     "cals": 710,
     "protein": 1,
     "carbs": 1.5,
-    "fat": 78.5
+    "fat": 78.5,
+    "visible": false
   },
   {
     "group": "Masti",
@@ -29,7 +32,8 @@
     "cals": 710,
     "protein": 1,
     "carbs": 2.2,
-    "fat": 76.6
+    "fat": 76.6,
+    "visible": true
   },
   {
     "group": "Masti",
@@ -37,7 +41,8 @@
     "cals": 751,
     "protein": 1,
     "carbs": 0.1,
-    "fat": 83
+    "fat": 83,
+    "visible": false
   },
   {
     "group": "Masti",
@@ -45,7 +50,8 @@
     "cals": 751,
     "protein": 1,
     "carbs": 0.1,
-    "fat": 83
+    "fat": 83,
+    "visible": true
   },
   {
     "group": "Masti",
@@ -53,7 +59,8 @@
     "cals": 885,
     "protein": 0,
     "carbs": 0,
-    "fat": 98.5
+    "fat": 98.5,
+    "visible": false
   },
   {
     "group": "Masti",
@@ -61,7 +68,8 @@
     "cals": 885,
     "protein": 0,
     "carbs": 0,
-    "fat": 98.5
+    "fat": 98.5,
+    "visible": false
   },
   {
     "group": "Masti",
@@ -69,7 +77,8 @@
     "cals": 902,
     "protein": 0,
     "carbs": 0,
-    "fat": 100
+    "fat": 100,
+    "visible": true
   },
   {
     "group": "Masti",
@@ -77,7 +86,8 @@
     "cals": 480,
     "protein": 1,
     "carbs": 1.5,
-    "fat": 51.88
+    "fat": 51.88,
+    "visible": false
   },
   {
     "group": "Masti",
@@ -85,7 +95,8 @@
     "cals": 900,
     "protein": 0,
     "carbs": 0,
-    "fat": 99.90
+    "fat": 99.90,
+    "visible": true
   },
   {
     "group": "Masti",
@@ -93,7 +104,8 @@
     "cals": 884,
     "protein": 0,
     "carbs": 0,
-    "fat": 100
+    "fat": 100,
+    "visible": true
   },
   {
     "group": "Masti",
@@ -101,7 +113,8 @@
     "cals": 884,
     "protein": 0,
     "carbs": 0,
-    "fat": 100
+    "fat": 100,
+    "visible": true
   },
   {
     "group": "Masti",
@@ -109,15 +122,17 @@
     "cals": 900,
     "protein": 0,
     "carbs": 0,
-    "fat": 99.9
+    "fat": 99.9,
+    "visible": true
   },
   {
     "group": "Masti",
-    "name": "Ulje maslinovo",
-    "cals": 900,
+    "name": "Ulje maslinovo Cirio",
+    "cals": 822,
     "protein": 0,
     "carbs": 0,
-    "fat": 99.9
+    "fat": 91,
+    "visible": true
   },
   {
     "group": "Masti",
@@ -125,7 +140,8 @@
     "cals": 900,
     "protein": 0,
     "carbs": 0,
-    "fat": 99.9
+    "fat": 99.9,
+    "visible": false
   },
   {
     "group": "Masti",
@@ -133,7 +149,8 @@
     "cals": 900,
     "protein": 0,
     "carbs": 0,
-    "fat": 99.9
+    "fat": 99.9,
+    "visible": false
   },
   {
     "group": "Masti",
@@ -141,7 +158,8 @@
     "cals": 880,
     "protein": 0,
     "carbs": 0,
-    "fat": 100
+    "fat": 100,
+    "visible": true
   },
   {
     "group": "Masti",
@@ -149,7 +167,8 @@
     "cals": 900,
     "protein": 0,
     "carbs": 0,
-    "fat": 99.9
+    "fat": 99.9,
+    "visible": true
   },
   {
     "group": "Masti",
@@ -157,7 +176,8 @@
     "cals": 900,
     "protein": 0,
     "carbs": 0,
-    "fat": 99.9
+    "fat": 99.9,
+    "visible": true
   },
   {
     "group": "Jaja",
@@ -165,6 +185,790 @@
     "cals": 44,
     "protein": 11,
     "carbs": 0,
-    "fat": 0
+    "fat": 0,
+    "visible": true
+  },
+  {
+    "group": "Jaja",
+    "name": "Jaje kokošje celo",
+    "cals": 151,
+    "protein": 13,
+    "carbs": 0,
+    "fat": 11,
+    "visible": true
+  },
+  {
+    "group": "Jaja",
+    "name": "Žumance kokošje sirovo",
+    "cals": 361,
+    "protein": 16,
+    "carbs": 0,
+    "fat": 33,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Čvarci",
+    "cals": 744,
+    "protein": 26,
+    "carbs": 0,
+    "fat": 71.20,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Ćuran (belo meso)",
+    "cals": 134,
+    "protein": 22,
+    "carbs": 0,
+    "fat": 4.90,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Domaće sušeno (svinjsko + goveđe)",
+    "cals": 454,
+    "protein": 27.40,
+    "carbs": 1,
+    "fat": 38.30,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Džigerica pileća",
+    "cals": 172,
+    "protein": 25.80,
+    "carbs": 1.10,
+    "fat": 6.4,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Džigerica svinjska",
+    "cals": 134,
+    "protein": 21,
+    "carbs": 3.8,
+    "fat": 4.4,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Fileti goveđi",
+    "cals": 106,
+    "protein": 16.1,
+    "carbs": 0,
+    "fat": 4.6,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Govedina masna",
+    "cals": 326,
+    "protein": 15.8,
+    "carbs": 0,
+    "fat": 29.2,
+    "visible": false
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Govedina mršava",
+    "cals": 129,
+    "protein": 20.7,
+    "carbs": 0,
+    "fat": 5.1,
+    "visible": false
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Govedina srednje masna",
+    "cals": 214,
+    "protein": 18.8,
+    "carbs": 0,
+    "fat": 15.4,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Govedina-butina (šol)",
+    "cals": 179,
+    "protein": 19.6,
+    "carbs": 0,
+    "fat": 11.2,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Govedina-pržolica (rostbraten)",
+    "cals": 290,
+    "protein": 16,
+    "carbs": 0,
+    "fat": 25.1,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Guska (srednje masna)",
+    "cals": 198,
+    "protein": 21.8,
+    "carbs": 0,
+    "fat": 12.3,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Jagnjetina masna",
+    "cals": 279,
+    "protein": 18,
+    "carbs": 0,
+    "fat": 23,
+    "visible": false
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Jagnjetina mršava",
+    "cals": 121,
+    "protein": 20,
+    "carbs": 0,
+    "fat": 4.6,
+    "visible": false
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Jagnjetina srednje masna",
+    "cals": 211,
+    "protein": 19,
+    "carbs": 0,
+    "fat": 15,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Jare (prosečno)",
+    "cals": 117,
+    "protein": 19.2,
+    "carbs": 0,
+    "fat": 4.5,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Jelen i srna",
+    "cals": 124,
+    "protein": 22,
+    "carbs": 0,
+    "fat": 4,
+    "visible": false
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Kobasica (prosečno)",
+    "cals": 401,
+    "protein": 14,
+    "carbs": 3,
+    "fat": 37,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Mleveno, mešano meso",
+    "cals": 210,
+    "protein": 18.8,
+    "carbs": 1,
+    "fat": 15.4,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Ovčetina (prosečno)",
+    "cals": 293,
+    "protein": 17,
+    "carbs": 0,
+    "fat": 25,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Patka (samo meso)",
+    "cals": 122,
+    "protein": 19.7,
+    "carbs": 0,
+    "fat": 4.8,
+    "visible": false
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Pečenica (od svinjetine)",
+    "cals": 465,
+    "protein": 34.5,
+    "carbs": 1,
+    "fat": 36.3,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Pile (belo meso bez kosti)",
+    "cals": 116,
+    "protein": 21.8,
+    "carbs": 0,
+    "fat": 3.2,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Pile (celo - prosečno)",
+    "cals": 230,
+    "protein": 17.6,
+    "carbs": 0,
+    "fat": 17.7,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Pile (crno meso - batak)",
+    "cals": 126,
+    "protein": 19.1,
+    "carbs": 0,
+    "fat": 5.5,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Pršuta (milanska i sl.)",
+    "cals": 475,
+    "protein": 22.5,
+    "carbs": 0,
+    "fat": 42.8,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Slanina suva masna",
+    "cals": 781,
+    "protein": 4,
+    "carbs": 0,
+    "fat": 85,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Slanina suva mesnata",
+    "cals": 506,
+    "protein": 14,
+    "carbs": 0,
+    "fat": 50,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Sušeno meso, pileće, ćureće",
+    "cals": 197,
+    "protein": 16.6,
+    "carbs": 0.7,
+    "fat": 13.8,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Suvi vrat",
+    "cals": 450,
+    "protein": 20.8,
+    "carbs": 1.4,
+    "fat": 40.2,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Svinjetina masna",
+    "cals": 371,
+    "protein": 14,
+    "carbs": 0,
+    "fat": 35,
+    "visible": false
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Svinjetina mršava",
+    "cals": 161,
+    "protein": 20,
+    "carbs": 0,
+    "fat": 9,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Svinjetina srednje masna",
+    "cals": 280,
+    "protein": 16,
+    "carbs": 0,
+    "fat": 24,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Šunka ćureća, pileća",
+    "cals": 160,
+    "protein": 19.03,
+    "carbs": 1.37,
+    "fat": 5.09,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Teletina masna",
+    "cals": 204,
+    "protein": 18.1,
+    "carbs": 0,
+    "fat": 14.6,
+    "visible": false
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Teletina mršava",
+    "cals": 113,
+    "protein": 21.3,
+    "carbs": 0,
+    "fat": 3.1,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Teletina srednje masna",
+    "cals": 160,
+    "protein": 19.1,
+    "carbs": 0,
+    "fat": 9.3,
+    "visible": false
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Mesni narezak Carnex",
+    "cals": 187,
+    "protein": 14,
+    "carbs": 2.3,
+    "fat": 13,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Mini posebna Carnex",
+    "cals": 215,
+    "protein": 13,
+    "carbs": 0.4,
+    "fat": 18,
+    "visible": true
+  },
+  {
+    "group": "Meso i proizvodi od mesa",
+    "name": "Viršla Wudy",
+    "cals": 240,
+    "protein": 15,
+    "carbs": 0,
+    "fat": 20,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Brie sir",
+    "cals": 334,
+    "protein": 21,
+    "carbs": 0.5,
+    "fat": 28,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Camamber sir",
+    "cals": 300,
+    "protein": 19.8,
+    "carbs": 0.46,
+    "fat": 24.26,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Čedar",
+    "cals": 404,
+    "protein": 22.87,
+    "carbs": 3.09,
+    "fat": 33.31,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Edamer 40% mm u s.m.",
+    "cals": 345,
+    "protein": 30,
+    "carbs": 2,
+    "fat": 25,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Ementaler",
+    "cals": 386,
+    "protein": 30,
+    "carbs": 1.7,
+    "fat": 30,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Gauda punomasni",
+    "cals": 392,
+    "protein": 26,
+    "carbs": 1,
+    "fat": 32,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Gorgonzola",
+    "cals": 346,
+    "protein": 22,
+    "carbs": 1.5,
+    "fat": 28.6,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Kajmak",
+    "cals": 572,
+    "protein": 1,
+    "carbs": 2,
+    "fat": 90,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Krem sir",
+    "cals": 241,
+    "protein": 6.5,
+    "carbs": 3,
+    "fat": 22.5,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Maskarpone",
+    "cals": 450,
+    "protein": 7,
+    "carbs": 2,
+    "fat": 45,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Mileram",
+    "cals": 204,
+    "protein": 2.5,
+    "carbs": 3.5,
+    "fat": 20,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Mozzarella",
+    "cals": 224,
+    "protein": 19.9,
+    "carbs": 2.5,
+    "fat": 16.1,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Parmezan",
+    "cals": 411,
+    "protein": 40,
+    "carbs": 3.5,
+    "fat": 27,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Sir rokfort",
+    "cals": 365,
+    "protein": 19,
+    "carbs": 0.8,
+    "fat": 31.7,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Pavlaka kisela (10% masti)",
+    "cals": 119,
+    "protein": 3,
+    "carbs": 4.5,
+    "fat": 10,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Pavlaka kisela (20% masti)",
+    "cals": 206,
+    "protein": 2.8,
+    "carbs": 3.9,
+    "fat": 20,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Pavlaka kisela (30% masti)",
+    "cals": 293,
+    "protein": 2.2,
+    "carbs": 2.9,
+    "fat": 30,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Pavlaka kisela (20% masti) - Imlek",
+    "cals": 204,
+    "protein": 2.5,
+    "carbs": 3.5,
+    "fat": 20,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Pavlaka za kuvanje",
+    "cals": 206,
+    "protein": 2.5,
+    "carbs": 4,
+    "fat": 20,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Punomasni stari sir",
+    "cals": 350,
+    "protein": 20,
+    "carbs": 2,
+    "fat": 30,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Sir kravlji sveži (cottage)",
+    "cals": 95,
+    "protein": 34,
+    "carbs": 3,
+    "fat": 3,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Sir, feta",
+    "cals": 264,
+    "protein": 14.21,
+    "carbs": 4.09,
+    "fat": 21.3,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Somborska feta",
+    "cals": 220,
+    "protein": 13.5,
+    "carbs": 2.2,
+    "fat": 17.5,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Jogurt Dukat Plavi",
+    "cals": 60,
+    "protein": 3.2,
+    "carbs": 4.6,
+    "fat": 3.2,
+    "visible": true
+  },
+  {
+    "group": "Mlečni proizvodi",
+    "name": "Topljeni sir Prezident",
+    "cals": 273,
+    "protein": 13,
+    "carbs": 5,
+    "fat": 22.3,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Avokado (mesnati deo)",
+    "cals": 126,
+    "protein": 2,
+    "carbs": 7,
+    "fat": 10,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Badem pečeni",
+    "cals": 635,
+    "protein": 21,
+    "carbs": 18,
+    "fat": 53.5,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Badem sirovi",
+    "cals": 611,
+    "protein": 27,
+    "carbs": 15,
+    "fat": 52.6,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Brazilski orah",
+    "cals": 655,
+    "protein": 14.3,
+    "carbs": 12.3,
+    "fat": 66.4,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Čija semenke",
+    "cals": 486,
+    "protein": 17.2,
+    "carbs": 42.1,
+    "fat": 31.3,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Indijski orah",
+    "cals": 553,
+    "protein": 18.22,
+    "carbs": 21,
+    "fat": 43.85,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Kikiriki prženi slani",
+    "cals": 570,
+    "protein": 24.3,
+    "carbs": 8.6,
+    "fat": 19,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Kikiriki puter (maslac od kikirikija), kremasti, bez soli",
+    "cals": 598,
+    "protein": 22.31,
+    "carbs": 22.21,
+    "fat": 51.36,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Kokosovo brašno bez šećera",
+    "cals": 659,
+    "protein": 6.7,
+    "carbs": 24.3,
+    "fat": 64.6,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Laneno brasno",
+    "cals": 481,
+    "protein": 28.8,
+    "carbs": 28.88,
+    "fat": 30.9,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Laneno seme",
+    "cals": 534,
+    "protein": 18.2,
+    "carbs": 5.9,
+    "fat": 42.16,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Orah suvi",
+    "cals": 649,
+    "protein": 15.8,
+    "carbs": 8.8,
+    "fat": 61.4,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Pasta od susama/ taan/ tahini",
+    "cals": 500,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 55,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Pečene semenke suncokreta",
+    "cals": 619,
+    "protein": 17,
+    "carbs": 21,
+    "fat": 57,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Pinjoli",
+    "cals": 673,
+    "protein": 14,
+    "carbs": 13,
+    "fat": 68,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Pistaći",
+    "cals": 556,
+    "protein": 20.6,
+    "carbs": 28,
+    "fat": 44.4,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Semenke bundeve oljuš., sušene",
+    "cals": 554,
+    "protein": 29,
+    "carbs": 15,
+    "fat": 46,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Semenke suncokreta oljuštene",
+    "cals": 560,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 47,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Semenke susama oljuštene suve",
+    "cals": 596,
+    "protein": 26,
+    "carbs": 9.6,
+    "fat": 55,
+    "visible": true
+  },
+  {
+    "group": "Voće i orašasti plodovi",
+    "name": "Sok od limuna (prirodni sveži)",
+    "cals": 34,
+    "protein": 0.4,
+    "carbs": 8.3,
+    "fat": 0,
+    "visible": true
   }
 ]
